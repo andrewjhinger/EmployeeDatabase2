@@ -6,7 +6,7 @@ Windows form application
 
 ###Concepts used:
 
-Initializers and Anonymous types.
+Accessors and Object Initialization
 
 ###Functionality:
 
